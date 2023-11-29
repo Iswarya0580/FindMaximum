@@ -51,16 +51,25 @@ def max_marks(list1):
             a=i
     return a
 ```
+ 
  ## Output:
+
 i)
+
+
+
 ![Alt text](<method sort.png>)
 ![Alt text](method-sort-1.png)
 
 ii)
+
+
 ![Alt text](<method max.png>)
 ![Alt text](method-max-1.png)
 
 iii)
+
+
 ![Alt text](<builtin func.png>)
 ![Alt text](<method-built in function-1.png>)
 
